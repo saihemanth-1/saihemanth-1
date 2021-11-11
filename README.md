@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saihemanth-1
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning to apply Data Science projects in Cloud
+- 🌱 I’m currently learning to create Data Science applications in the Cloud
 - 💞️ I’m looking to collaborate on anything based on Data science learning
 - 📫 How to reach me - via mail at saihemanthprakhya@gmail.com
 
